@@ -23,7 +23,7 @@ def askquestion(question, engine):
 
 
 if __name__ == "__main__":
-  print(Fore.GREEN + 'Made by @alphaotuken on Replit \n' + Style.RESET_ALL)
+  print(Fore.GREEN + 'Made by @alphaotuken \n' + Style.RESET_ALL)
 
   print(
     'I know, this is a turnoff but sadly, you cannot use J4E without an API key.'

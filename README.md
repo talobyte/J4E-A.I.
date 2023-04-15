@@ -3,7 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/alphaotuken/J4E-A.I.)
   ![GitHub stars](https://img.shields.io/github/stars/alphaotuken/J4E-A.I.?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/alphaotuken/J4E-A.I.?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/taloisikstyle=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/taloisikstyle=social)](https://twitter.com/intent/follow?screen_name=taloisik)
 
   <br />
   <br />

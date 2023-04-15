@@ -1,5 +1,5 @@
 # For when school, or admin blocks websites such as ChatGPT.
-# by @alphaotuken on replit
+# by @alphaotuken 
 import openai
 import subprocess
 from colorama import Fore, Style

@@ -16,10 +16,6 @@
 
 <br />
 
-### Demo Screeshots
-
-![Screenshot 2023-04-15 140730](https://user-images.githubusercontent.com/100890340/232188831-b51afa1b-9a16-492e-abd7-2274edba5c07.png)
-
 ### Prerequisites
 
 ### Run Locally

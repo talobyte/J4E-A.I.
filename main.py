@@ -1,5 +1,5 @@
 # For when school, or admin blocks websites such as ChatGPT.
-# by @alphaotuken 
+# by @talobyte
 import openai
 import subprocess
 from colorama import Fore, Style
@@ -23,7 +23,7 @@ def askquestion(question, engine):
 
 
 if __name__ == "__main__":
-  print(Fore.GREEN + 'Made by @alphaotuken \n' + Style.RESET_ALL)
+  print(Fore.GREEN + 'Made by @talobyte \n' + Style.RESET_ALL)
 
   print(
     'I know, this is a turnoff but sadly, you cannot use J4E without an API key.'
@@ -35,7 +35,7 @@ if __name__ == "__main__":
 
   print(
     '\nBut, there is a solution! If you go to this replit: ' + Fore.BLUE +
-    'https://replit.com/@alphaotuken/ChatGDP-Unblocked?v=1' +
+    'https://replit.com/@talobyte/ChatGDP-Unblocked?v=1' +
     Style.RESET_ALL +
     ' and enter the link above, you can login to your account and find or create your API Key. For any issues you can check'
   )
